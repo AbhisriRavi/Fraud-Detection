@@ -1,6 +1,6 @@
 ﻿# Real-time Card Fraud Detection
 
-![tests](https://github.com/AbhisriRavi/fraud-detection/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/AbhisriRavi/Fraud-Detection/actions/workflows/tests.yml/badge.svg)
 
 An end-to-end fraud detection system: an XGBoost model trained on highly imbalanced card transactions (0.17% fraud), served through a FastAPI scoring service that returns a fraud probability with SHAP explanations, and a Streamlit dashboard that monitors a live transaction feed.
 
